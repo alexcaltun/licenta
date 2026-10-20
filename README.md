@@ -1,1 +1,2 @@
 # licenta
+Test legatura Linear.
